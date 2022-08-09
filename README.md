@@ -1,10 +1,8 @@
 #  React App with TypeScript
 
-## The idea behind the example
-
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app) with [TypeScript](https://github.com/Microsoft/TypeScript).
-It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5.
-If you prefer, you can [use styled-components].
-
 # dashboard-react
+
+Front-end app with dummy data.
+In the navigation tabs you will be able to see map, graphs and users
+
 
