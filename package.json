@@ -1,0 +1,41 @@
+{
+  "name": "create-react-app-with-typescript",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.6",
+    "@react-google-maps/api": "^2.12.1",
+    "@types/google-map-react": "^2.1.7",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "axios": "^0.27.2",
+    "google-map-react": "^2.2.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "latest",
+    "recharts": "^2.1.12",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
