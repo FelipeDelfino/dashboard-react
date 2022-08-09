@@ -41,3 +41,4 @@ If you prefer, you can [use styled-components instead](https://mui.com/material-
 You now have a working example project.
 You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
 # dashboard-react
+# dashboard-react
